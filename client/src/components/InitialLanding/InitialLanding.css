@@ -1,0 +1,22 @@
+.wrapper {
+  padding-top: 100px;
+}
+.row {
+  margin-bottom: 0px;
+}
+.button-signin {
+  margin-right: 20px;
+  background: rgb(64, 64, 65);
+}
+
+.bck {
+  background: url("/img/justice_bkgnd.jpg");
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.tab {
+  color: rgb(64, 64, 65);
+}
